@@ -1,0 +1,7 @@
+/temp/*
+!/temp/.gitkeep
+
+/config/*
+!/config/sample_*.json
+!/config/default_config.json
+!/config/.gitkeep

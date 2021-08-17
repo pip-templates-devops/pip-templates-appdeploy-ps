@@ -1,0 +1,10 @@
+{
+    "env": {
+        "type": "sample",
+        "version": "1.0.0"
+    },
+    "component": {
+        "message_1": "Default message 1",
+        "message_2": "Default message 2"
+    }
+}
